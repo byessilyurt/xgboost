@@ -7,4 +7,12 @@
 
 ### Abstract:
 
-The escalating demands on optical networks, especially in Elastic Optical Networks (EONs), necessitate efficient management of Routing and Spectrum Allocation (RSA). This paper proposes leveraging advanced machine learning techniques, particularly XGBoost models and stacking, to optimize RSA in EONs. Through comprehensive analysis, it demonstrates the superiority of ensemble methods, especially stacking with linear and ridge regression as meta-learners, in predicting network performance metrics with higher accuracy. The study also explores the trade-off between computational efficiency and model accuracy, highlighting the strategic use of ensemble learning for network performance optimization in EONs.
+The increasing demands placed on Elastic Optical Networks (EONs) underscore the importance of efficiently managing Routing and Spectrum Allocation (RSA). This paper advocates for the utilization of advanced machine learning techniques, specifically XGBoost models and stacking. By conducting a thorough analysis, it showcases the effectiveness of ensemble methods, particularly highlighting the superiority of stacking with linear and ridge regression as meta-learners, in accurately predicting network performance metrics. Additionally, the study delves into the delicate balance between computational efficiency and model accuracy, emphasizing the strategic application of ensemble learning for optimizing network performance in EONs.
+
+
+
+
+
+
+
+
